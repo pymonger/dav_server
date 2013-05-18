@@ -1,0 +1,10 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/pucops/puccini/ops/dav_server" \
+"--enable-dav" \
+"--enable-dav-fs" \
+"--enable-dav-lock" \
+"$@"
