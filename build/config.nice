@@ -7,4 +7,5 @@
 "--enable-dav" \
 "--enable-dav-fs" \
 "--enable-dav-lock" \
+"--enable-auth-digest" \
 "$@"
